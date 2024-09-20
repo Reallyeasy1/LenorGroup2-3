@@ -10,6 +10,10 @@ Given that you know the student is in each of the bottom 6 groups, the prompt of
 ### Overall Control Flow Diagram of Lenor 
 ![image](https://github.com/user-attachments/assets/bed1d84c-5618-40cb-9108-d4fc6372c534)
 
+### Overall Software Architecture
+![image](https://github.com/user-attachments/assets/d1cd2303-941f-46ea-a272-afd4986d8f56)
+
 ### Documentation:
 For more information, refer to the powerpoint slides attached:
+
 [LENORXFINTECH.pptx](https://github.com/user-attachments/files/17072977/LENORXFINTECH.pptx)
